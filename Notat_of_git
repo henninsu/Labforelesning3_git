@@ -1,0 +1,19 @@
+Notat til labforelesning om GIT
+
+-Repository: typ mappestruktur for hele prosjektet
+
+git status for å sjekke status
+
+git add <mappe>/* for å legge til alle filer i mappen (skriv bare mappens navn, ikke < >)
+
+git commit -m "..." for å fullføre/bekrefte endringene (bruk nå " ", for å kunne skrive endrigene som er gjort)
+
+git log viser alle endringsmeldingene
+
+touch .gitignore for å lage gitignore fil, hvor vi da eksempelvis kan gjøre at ting i build skal ignoreres med build/* doc/*. Ignorere alle filer som slutter på .pdf: *.pdf
+
+git push opp til skyen
+git pull ned fra skyen
+
+git clone <url> for å klone eksisterende repository 
+
