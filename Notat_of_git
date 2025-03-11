@@ -17,3 +17,9 @@ git pull ned fra skyen
 
 git clone <url> for å klone eksisterende repository 
 
+LEGG ALDRI UT PRIVAT NØKKEL PÅ GIT/INTERNETT!!
+
+Del av forelesning om branching og merging:
+Viktig for at ulike brukere skal kunne jobbe i parallell 
+
+git checkout for å skifte til annen branch
